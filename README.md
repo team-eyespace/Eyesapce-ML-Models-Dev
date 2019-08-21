@@ -4,14 +4,22 @@ Developing Terrain Detection and General Context Awareness Machine Learning Mode
 ## Terrain Detection 
 
 Current Labels:
-- [] Road Marking(Direction Markings on the Road)
-- [] Stairs
-- [] Manhole
-- [] Pothole(Upload Revised Dataset)
+- [X] Road Marking(Direction Markings on the Road)
+- [X] Stairs
+- [X] Manhole
+- [ ] Pothole(Upload Revised Dataset)
 
 To be Added:
-Road(Asphalt Dataset)
-Sidewalk 
-Road Signs - Traffic Signs - Street Signs
-Stairs(Outdoor)
+- [ ] Road(Asphalt Dataset)
+- [ ] Sidewalk 
+- [ ] Road Signs - Traffic Signs - Street Signs
+- [ ] Stairs(Outdoor)
+
+## Datasets Used
+
+* Cifar 10 & 100
+* Imagenet Competition 
+* MS-COCO
+* ADE20K
+* Cityscapes
 
