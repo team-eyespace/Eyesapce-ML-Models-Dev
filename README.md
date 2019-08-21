@@ -3,7 +3,6 @@ Developing Terrain Detection and General Context Awareness Machine Learning Mode
 
 ### Terrain Detection 
 
-Current Labels:
 - [X] Road Marking(Direction Markings on the Road)
 - [X] Stairs
 - [X] Manhole
@@ -15,6 +14,7 @@ Current Labels:
 
 
 ### General Context 
+
 - [ ] Vehicles (bicycle, bus, motorcycle, pickup truck, train
 lawn-mower, rocket, streetcar, tank, tractor)
 - [ ] Trees(General) 
