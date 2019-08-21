@@ -1,7 +1,7 @@
 # Eyespace ML Models Dev
 Developing Terrain Detection and General Context Awareness Machine Learning Models.
 
-## Terrain Detection 
+### Terrain Detection 
 
 Current Labels:
 - [X] Road Marking(Direction Markings on the Road)
@@ -15,7 +15,7 @@ To be Added:
 - [ ] Road Signs - Traffic Signs - Street Signs
 - [ ] Stairs(Outdoor)
 
-## Datasets Used
+### Datasets Used
 
 * Cifar 10 & 100
 * Imagenet Competition 
