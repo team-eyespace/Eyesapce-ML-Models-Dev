@@ -15,6 +15,25 @@ To be Added:
 - [ ] Road Signs - Traffic Signs - Street Signs
 - [ ] Stairs(Outdoor)
 
+
+### General Context 
+- [ ] Vehicles (bicycle, bus, motorcycle, pickup truck, train
+lawn-mower, rocket, streetcar, tank, tractor)
+- [ ] Trees(General) 
+- [ ] People
+baby, boy, girl, man, woman 
+- [ ] Common Animals
+- [ ] Household Furniture 
+- [ ] Instruments
+Appliances, Utensils, Tools(Screen Driver etc.) Musical Instruments
+
+- [ ] Scenes
+Types of Rooms(Bedroom, library, computer)
+- [ ] Clothes(General)
+- [ ] Misc: Trashcan, bags, bathtub, sink, bench, book, book cases, bottle, bowl, box, building, notice board, cabinet, candle, chest of drawers, clock, 
+- [ ] Food(General)
+
+
 ### Datasets Used
 
 * Cifar 10 & 100
