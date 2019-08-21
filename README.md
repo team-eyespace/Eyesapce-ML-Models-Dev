@@ -8,8 +8,6 @@ Current Labels:
 - [X] Stairs
 - [X] Manhole
 - [ ] Pothole(Upload Revised Dataset)
-
-To be Added:
 - [ ] Road(Asphalt Dataset)
 - [ ] Sidewalk 
 - [ ] Road Signs - Traffic Signs - Street Signs
