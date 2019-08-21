@@ -15,7 +15,7 @@ Developing Terrain Detection and General Context Awareness Machine Learning Mode
 
 ### General Context 
 
-- [ ] Vehicles (bicycle, bus, motorcycle, pickup truck, train
+- [X] Vehicles (bicycle, bus, motorcycle, pickup truck, train
 lawn-mower, rocket, streetcar, tank, tractor)
 - [ ] Trees(General) 
 - [ ] People
